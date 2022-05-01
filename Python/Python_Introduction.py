@@ -17,8 +17,8 @@ print('hello world')
 #5. \t -----   tab space
 #6. \b -------  Backspace
 
-print("prem \n bharti")
-print("prem \t bharti")
+print("Training \n Basket")
+print("Training \t Basket")
 
 ## Comments : It is for user only
 
